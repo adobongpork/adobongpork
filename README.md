@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Iram!👋
+A Computer Science student learning to build things by actually building them.
 
-<!--
-**adobongpork/adobongpork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔭 Currently working on Project:HEKASI
+- A portfolio on Philippine history and culture, featuring an interactive map and calender, as well as national artists and heroes.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+* C
+* Arduino
+* Python
+* Scikit Learn
+* FASTAPI
+* HTML
+* CSS
+* Javascript
