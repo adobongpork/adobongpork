@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Geist+Pixel&family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&family=Urbanist:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+    background-color: #f1f0ed;
+}
+
+main {
+    margin: 0 14rem;
+    padding: 0 3rem;
+}
+
+h1 {
+    font-family: "Geist Pixel", "Roboto Mono", sans-serif;
+    font-weight: 600;
+    font-size: 2.5rem;
+    color: #2b2b2b;
+}
+
+h2 {
+    font-family: "Geist Pixel", "Roboto Mono", sans-serif;
+    font-weight: 600;
+    font-size: 1.5rem;
+    color: #2b2b2b;
+}
+
+h3 {
+    font-family: "Space Mono", Roboto, sans-serif;
+    font-weight: 600;
+    font-size: 1rem;
+}
+
+p {
+    font-family: Urbanist, Roboto, sans-serif;
+    font-size: 1rem;
+    color: #414141;
+    text-align: justify;
+}
+
+li {
+    font-family: Urbanist, Roboto, sans-serif;
+    font-size: 1rem;
+    color: #414141;
+    text-align: justify;
+}
+
+th {
+    font-family: Urbanist, Roboto, sans-serif;
+    font-size: 1rem;
+    font-weight: 600;
+    color: #414141;
+    text-align: justify;
+}
+
+td {
+    font-family: Urbanist, Roboto, sans-serif;
+    font-size: 1rem;
+    color: #414141;
+    text-align: justify;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 3rem;
+    box-sizing: border-box;
+    background-color: #f1f0ed;
+}
+
+header p {
+    color: #a3a2a0;
+    font-size: .9rem;
+}
+
+nav ul {
+    display: flex;
+    align-items: center;
+    list-style: none;
+    gap: 2rem;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+tr:nth-child(odd) {
+    background-color: #f0ebd8;
+}
+
+tr:nth-child(even) {
+    background-color: #dbd6c3;
+}
+
+#about-content {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    height: 85vh;
+}
+
+#hobbies {
+    height: 85vh;
+}
+
+#schedule {
+    height: 85vh;
+}
+
+#favorites {
+    height: 85vh;
+}
+
+img {
+    border-radius: 5%;
+}
+
+a {
+    color: #414141;
+    text-decoration: none;
+}
+
+a:hover{
+    font-weight: 600;
+    color: #927a1a;
+}
